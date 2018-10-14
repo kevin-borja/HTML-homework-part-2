@@ -25,18 +25,18 @@
 </tr>
 <tr>
 <td>awake</td>
-<td>build</td>
-<td>eat</td>
+<td>awoke</td>
+<td>awoken</td>
 </tr>
 <tr>
-<td>awoke</td>
+<td>build</td>
 <td>built</td>
-<td>ate</td>
+<td>built</td>
 </tr>  
 <tr>
+<td>arise</td>
+<td>arose</td>
 <td>arisen</td>
-<td>(have) built</td>
-<td>eaten</td>
 </tr>
 <table>
 <hr>
