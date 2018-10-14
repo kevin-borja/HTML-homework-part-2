@@ -11,7 +11,8 @@
 <dl>
 <dt>syntax</dt>
 <dd>is the arrangement of words and phrases to create well-formed sentences in a language.</dt>
-<dd>suffix is a morpheme added at the end of a word.</dd>
+<dt>suffix</dt>
+<dd>is a morpheme added at the end of a word.</dd>
 <dt>prefix</dt>
 <dd>is a morpheme placed at the beginning of a word.</dd>
 </dl>
@@ -40,6 +41,6 @@
 <table>
 <hr>
 <html lang="es"> 
-<p>hola me llamo kevin y tengo dieciocho años. Yo vivo en londres y soy un estudente en la Universidad de Queen Mary.</p>
+<p>hola me llamo Kevin y tengo dieciocho años. Yo vivo en Londres y soy un estudente en la Universidad de Queen Mary.</p>
 </body>
- </html>
+</html>
