@@ -41,6 +41,6 @@
 <table>
 <hr>
 <html lang="es"> 
-<p>hola me llamo Kevin y tengo dieciocho años. Yo vivo en Londres y soy un estudente en la Universidad de Queen Mary.</p>
+<p>Hola me llamo Kevin y tengo dieciocho años. Yo vivo en Londres y soy un estudente en la Universidad de Queen Mary.</p>
 </body>
 </html>
