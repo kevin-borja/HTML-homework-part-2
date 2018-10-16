@@ -1,6 +1,5 @@
 # HTML-homework-part-2
 <!DOCTYPE html>
-_config.yml
 <html>
 <body>
 <h1>HTML Part 2	Homework</h1>
