@@ -1,6 +1,4 @@
 # SML209
-<html>
-<body> 
 <h1>Section:1</h>
 <h2>About me</h2>
 <p> I was born in Ecudaor and moved to Engand when I was 2 years old. I grew up and lived in London most my life and I am currently attening the University of Queen Mary where I am studying Hispanic studies and Business managament. </p>
@@ -21,5 +19,3 @@
 <li>Music</li>
 <li>Food</li>
 <ol/>
-
-
