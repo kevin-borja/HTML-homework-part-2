@@ -1,5 +1,4 @@
 # HTML-homework-part-2
-<!DOCTYPE html>
 <html>
 <body>
 <h1>HTML Part 2	Homework</h1>
