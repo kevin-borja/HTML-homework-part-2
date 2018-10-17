@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: Kevin's site
 description: Learning today
 github:
-page2: Grammar.html
-page3: Vocabulary.html
-page4: page4.html
-page5: page5.html
+  page2: Grammar.html
+  page3: Vocabulary.html
+  page4: page4.html
+  page5: page5.html
