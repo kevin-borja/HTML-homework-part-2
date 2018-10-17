@@ -1,5 +1,6 @@
 # HTML-homework-part-2
 <h1>HTML Part 2	Homework</h1>
+
 <p>14 <sup>th</sup/> of October 2018</p>
   
 <h2>HTML Image</h2>
@@ -17,7 +18,9 @@
 <dt>prefix</dt>
 <dd>is a morpheme placed at the beginning of a word.</dd>
 </dl>
+
 <hr>
+
 <table>
 <tr>
 <th>Present</th>
