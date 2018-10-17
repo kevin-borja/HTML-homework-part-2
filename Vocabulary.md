@@ -1,12 +1,14 @@
 # HTML-homework-part-2
 <h1>HTML Part 2	Homework</h1>
 <p>14 <sup>th</sup/> of October 2018</p>
+  
 <h2>HTML Image</h2>
 <a href="https://upload.wikimedia.org/wikipedia/commons/1/1e/Meo_Music_icon.png" title="View Image Source">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Meo_Music_icon.png" alt="music">
 </a>
 <hr>
 <h2>Terms and Definitions</h2>
+
 <dl>
 <dt>syntax</dt>
 <dd>is the arrangement of words and phrases to create well-formed sentences in a language.</dt>
