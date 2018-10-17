@@ -5,7 +5,7 @@
 <a href="https://hub.qmplus.qmul.ac.uk/view/index.php"> Visit my QMplus Hub journel. </a>
 <hr>
 
-<h1 style=color:blue;">Section:2</h>
+<h1 style="color:blue;">Section:2</h>
 <h2>List of things to do</h2>
 <ul>
 <li>Do homework.</li>
