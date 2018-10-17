@@ -1,5 +1,4 @@
 # SML209
-<!DOCTYPE html>
 <html>
 <body> 
 <h1>Section:1</h>
