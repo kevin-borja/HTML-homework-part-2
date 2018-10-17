@@ -1,6 +1,4 @@
 # HTML-homework-part-2
-<html>
-<body>
 <h1>HTML Part 2	Homework</h1>
 <p>14 <sup>th</sup/> of October 2018</p>
 <h2>HTML Image</h2>
@@ -41,5 +39,3 @@
 <hr>
 <html lang="es"> 
 <p>Hola me llamo Kevin y tengo dieciocho años. Yo vivo en Londres y soy un estudente en la Universidad de Queen Mary.</p>
-</body>
-</html>
