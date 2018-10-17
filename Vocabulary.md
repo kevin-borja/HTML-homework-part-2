@@ -6,7 +6,7 @@
 <h2>HTML Image</h2>
 <a href="https://upload.wikimedia.org/wikipedia/commons/1/1e/Meo_Music_icon.png" title="View Image Source">
 <img style="width:70%; border:1px solid red;"
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Meo_Music_icon.png" alt="music">
+src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Meo_Music_icon.png" alt="music">
 </a>
 <hr>
 <h2>Terms and Definitions</h2>
