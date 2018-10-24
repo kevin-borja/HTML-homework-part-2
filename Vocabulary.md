@@ -4,6 +4,7 @@
 <p>14<sup>th</sup/> of October 2018</p>
   
 <h2>HTML Image</h2>
+<p>
 <a href="https://upload.wikimedia.org/wikipedia/commons/1/1e/Meo_Music_icon.png" title="View Image Source">
 <img class="imgLeft" style="width:70%; vertical-align:top; border: 1px solid red;"https://upload.wikimedia.org/wikipedia/commons/1/1e/Meo_Music_icon.png">
 src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Meo_Music_icon.png" alt="music">                                           
