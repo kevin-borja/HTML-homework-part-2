@@ -15,12 +15,12 @@ music is an art form and cultural activity whose medium is sound organized in ti
 <h2>Terms and Definitions</h2>
 
 <dl>
-<dt>syntax</dt>
-<dd>is the arrangement of words and phrases to create well-formed sentences in a language.</dt>
-<dt>suffix</dt>
-<dd>is a morpheme added at the end of a word.</dd>
-<dt>prefix</dt>
-<dd>is a morpheme placed at the beginning of a word.</dd>
+ <dt>syntax</dt>
+ <dd>- is the arrangement of words and phrases to create well-formed sentences in a language.</dt>
+ <dt>suffix</dt>
+ <dd>- is a morpheme added at the end of a word.</dd>
+ <dt>prefix</dt>
+ <dd>- is a morpheme placed at the beginning of a word.</dd>
 </dl>
 
 <hr>
