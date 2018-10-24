@@ -1,5 +1,5 @@
 # SML209
-<h1>Section:1 </h>
+<h1>Section:1 </h1>
 <h2 style="color:red;">About me</h2>
 <p> I was born in Ecudaor and moved to Engand when I was 2 years old. I grew up and lived in London most my life and I am currently attening the University of Queen Mary where I am studying Hispanic studies and Business managament. </p>
 <a href="https://hub.qmplus.qmul.ac.uk/view/index.php"> Visit my QMplus Hub journel. </a>
