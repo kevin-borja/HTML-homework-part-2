@@ -5,9 +5,13 @@
   
 <h2>HTML Image</h2>
 <a href="https://upload.wikimedia.org/wikipedia/commons/1/1e/Meo_Music_icon.png" title="View Image Source">
-<img style="width:70%; border:1px solid red;"
-src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Meo_Music_icon.png" alt="music">
+<img class="imgLeft" style="width:70%; vertical-align:top; border: 1px solid red;"https://upload.wikimedia.org/wikipedia/commons/1/1e/Meo_Music_icon.png">
+src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Meo_Music_icon.png" alt="music">                                           
 </a>
+<p>                         
+music is an art form and cultural activity whose medium is sound organized in time. In general definitions of music will include common elements such as pitch (which governs melody and harmony), rhythm (and its associated concepts tempo, meter, and articulation), dynamics (loudness and softness), and the sonic qualities of timbre and texture (which are sometimes termed the "color" of a musical sound).    
+</p>
+
 <hr>
 <h2>Terms and Definitions</h2>
 
