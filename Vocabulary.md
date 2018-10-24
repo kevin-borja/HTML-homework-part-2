@@ -16,7 +16,7 @@ music is an art form and cultural activity whose medium is sound organized in ti
 
 <dl>
  <dt>syntax</dt>
- <dd>- is the arrangement of words and phrases to create well-formed sentences in a language.</dt>
+ <dd>- is the arrangement of words and phrases to create well-formed sentences in a language.</dd>
  <dt>suffix</dt>
  <dd>- is a morpheme added at the end of a word.</dd>
  <dt>prefix</dt>
