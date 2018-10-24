@@ -5,5 +5,5 @@
 .imgLeft {
 float:left;
 margin-right:10px;
-margin-bottom:10p;
+margin-bottom:10px;
 }
