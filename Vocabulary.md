@@ -9,6 +9,7 @@
 <img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Meo_Music_icon.png" alt="music">                
                                 
 music is an art form and cultural activity whose medium is sound organized in time. In general definitions of music will include common elements such as pitch (which governs melody and harmony), rhythm (and its associated concepts tempo, meter, and articulation), dynamics (loudness and softness), and the sonic qualities of timbre and texture (which are sometimes termed the "color" of a musical sound).    
+<span style="color:red; </span>
 </p>
 
 <hr>
