@@ -49,3 +49,10 @@ music is an art form and cultural activity whose medium is sound organized in ti
 <hr>
 <html lang="es"> 
 <p>Hola me llamo Kevin y tengo dieciocho años. Yo vivo en Londres y soy un estudente en la Universidad de Queen Mary.</p>
+
+<hr>
+
+<p>
+<a style="float:right;" href="exercise.html">Go to Exercise 1</a>
+</p>
+<div style="clear:both;">  </div>
