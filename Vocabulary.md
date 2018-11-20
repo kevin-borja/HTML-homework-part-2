@@ -53,7 +53,6 @@ music is an art form and cultural activity whose medium is sound organized in ti
 <hr>
 
 <p>
-<a style="float:right;" href="exercise.html">Go to Exercise 1</a>
-<a style="float:right;" href="exercise-1.html" class="btn2">Go to exercise 1</a>
+<a style="float:right;" href="exercise.html" class="btn2">Go to exercise 1</a>
 </p>
 <div style="clear:both;">  </div>
